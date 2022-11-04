@@ -1,2 +1,2 @@
 # SparsePCAC
-Point Cloud Attribute Compression
+Sparse Tensor-based Point Cloud Attribute Compression
